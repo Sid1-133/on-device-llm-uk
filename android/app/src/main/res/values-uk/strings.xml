@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="process_text_label">Запитати в OnDevice LLM</string>
+    <string name="tile_label">Спілкуватися з OnDevice LLM</string>
+    <string name="widget_ask">Запитайте про що завгодно…</string>
+    <string name="widget_talk">Говорити</string>
+    <string name="widget_description">Запитайте локальну модель або поспілкуйтеся з нею.</string>
+    <string name="model_download_description">Завантаження моделі; перевірка після повторного відкриття застосунку</string>
+    <string name="schedule_channel">Заплановані запити</string>
+    <string name="schedule_goal">Запланована ціль</string>
+    <string name="schedule_prompt">Запланований запит</string>
+    <string name="schedule_tap_goal">Натисніть, щоб налаштувати: %1$s</string>
+    <string name="schedule_tap_ask">Натисніть, щоб запитати: %1$s</string>
+</resources>
