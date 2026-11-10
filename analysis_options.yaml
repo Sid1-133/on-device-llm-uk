@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - native/llama.cpp/**
+    - .tools/**
+    - build/**
+    - artifacts/**
+    - android/**
+    - ios/**
+    - windows/**
+
+linter:
+  rules:
+    prefer_const_constructors: true
+    prefer_final_locals: true
+    avoid_print: true
+    unawaited_futures: true
+    require_trailing_commas: true
